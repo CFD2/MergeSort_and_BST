@@ -1,5 +1,5 @@
 /**
- * @author Dmytro Sytnik (VanArman)
+ * @author Vadim Yastrebov
  * @version 09 August, 2017
  */
 public class DictTest {
