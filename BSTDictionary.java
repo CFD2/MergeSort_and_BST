@@ -1,5 +1,5 @@
 /**
- * @author Vadim Yastrebov (CFD2) 100908473
+  * @author Vadim Yastrebov
  * @version 2017.08.02
  */
 public class BSTDictionary <E, K extends Sortable> implements Dictionary<E, K> {
