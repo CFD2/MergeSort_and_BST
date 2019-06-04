@@ -1,7 +1,7 @@
 import java.util.Arrays;
 
 /**
- * @author Vadim Yastrebov (CFD2) 100908473
+  * @author Vadim Yastrebov
  * @version 2017.07.31
  */
 public class TestMergeSort {
